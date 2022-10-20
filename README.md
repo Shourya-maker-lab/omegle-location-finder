@@ -1,4 +1,4 @@
-![logo](omegle%20hack.svg)
+![logo](omeglehack.png)
 # Omegle Location Finder
 
 You can use this code to find the location of people using Omegle. This code is for educational purposes. Please don't use this for illegal purposes. Please use vpn for being safe only and especially on these types of sites.
